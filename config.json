@@ -1,0 +1,33 @@
+{
+  "aliases": {
+    "commit": [
+      "commit-msg-template",
+      "commitizen",
+      "commitlint"
+    ],
+    "project": [
+      "contributing",
+      "editorconfig",
+      "gitignore",
+      "license",
+      "readme"
+    ],
+    "js": [
+      "package",
+      "nvm",
+      "contributing",
+      "editorconfig",
+      "gitignore",
+      "license",
+      "readme"
+    ]
+  },
+  "name": "Cheong Yip",
+  "url": "https://wingcheongyip.com",
+  "email": "wingy3181@gmail.com",
+  "github": "wingy3181",
+  "readmeFile": "README.md",
+  "license": "MIT",
+  "licenseFile": "LICENSE.md",
+  "contributingFile": "CONTRIBUTING.md"
+}
